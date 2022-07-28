@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
 .container {
     display: block;
     width: 1140px;
@@ -39,7 +43,7 @@ h1 {
 
 .title {
     color: #F9BF3B;
-    font-family: 'Roboto - Black';
+    /* font-family: 'Roboto Black'; */
     font-weight: 900;
     font-size: 41px;
     line-height: 41px;
@@ -53,7 +57,7 @@ h2.title {
 
 .simple .title_big {
     color: #FFFFFF;
-    font-family: 'Roboto';
+    /* font-family: 'Roboto - Black'; */
     font-weight: 900;
     font-size: 80px;
     text-align: center;
@@ -75,7 +79,7 @@ h2.title {
 
 .promo .promo_text span {
     color: #F9BF3B;
-    font-family: 'Roboto Bold';
+    font-family: 'Roboto - Bold';
     font-weight: 700;
 }
 
@@ -184,7 +188,7 @@ h2.title {
 .optimization .optimization_header {
     margin-left: 389px;
     color: #299CBD;
-    font-family: 'Roboto';
+    /* font-family: 'Roboto - Black'; */
     font-weight: 900;
     font-size: 28px;
     text-transform: uppercase;
@@ -305,7 +309,7 @@ h2.title {
 .first_vebinar .first_vebinar_data {
     margin-top: 30px;
     color: #299CBD;
-    font-family: 'Roboto';
+    /* font-family: 'Roboto - Black'; */
     font-weight: 900;
     font-size: 36px;
     text-align: center;
